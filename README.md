@@ -27,7 +27,7 @@ I friendly "took inspiration" from [jbranchaud/til](https://github.com/jbranchau
 
 ## License
 
-&copy; 2015-2022 Josh Branchaud
+&copy; 2022 Alessandro Giacchè
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.
