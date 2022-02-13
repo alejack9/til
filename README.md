@@ -6,7 +6,13 @@
 
 ### Categories
 
+* [Linux](#linux)
+
 ---
+
+### Linux
+
+- [Pulseaudio Profiles](linux/pulseaudio-profiles.md)
 
 ## About
 
