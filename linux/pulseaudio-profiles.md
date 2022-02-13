@@ -1,4 +1,4 @@
-# Audio Profiles in Plasma5
+# Audio Profiles in Pulseaudio
 
 The file `/usr/share/pulseaudio/alsa-mixer/profile-sets/default.conf` contains all audio profiles for the current system named via mapping (e.g. `[Mapping analog-stereo]`).
 
