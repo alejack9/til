@@ -2,17 +2,24 @@
 
 > Today I Learned
 
+A bunch of stuff I'm learning outside the University bubble and that I'd love to remember and share with anyone interested.
+
 ---
 
 ### Categories
 
 * [Linux](#linux)
+* [Python](#python)
 
 ---
 
 ### Linux
 
 - [Pulseaudio Profiles](linux/pulseaudio-profiles.md)
+
+### Python
+
+- [Triple Quotes Indentation](python/triple-quotes-indentation.md)
 
 ## About
 
