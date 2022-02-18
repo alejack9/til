@@ -25,6 +25,7 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 ### Python
 
 - [Triple Quotes Indentation](python/triple-quotes-indentation.md)
+- [Dataframe To Latex](python/dataframe-to-latex.md)
 
 ## About
 
