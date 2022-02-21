@@ -9,6 +9,7 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 ### Categories
 
 * [Linux](#linux)
+* [CSS](#css)
 * [Devops](#devops)
 * [Python](#python)
 
@@ -17,6 +18,10 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 ### Linux
 
 - [Pulseaudio Profiles](linux/pulseaudio-profiles.md)
+
+### Css
+
+- [Glass Effect](css/glass-effect.md)
 
 ### Devops
 
