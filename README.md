@@ -19,7 +19,7 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 
 - [Pulseaudio Profiles](linux/pulseaudio-profiles.md)
 
-### Css
+### CSS
 
 - [Glass Effect](css/glass-effect.md)
 

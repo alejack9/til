@@ -16,8 +16,11 @@ def list_categories():
 
 dic = list_categories()
 
+def category_name(category: str):
+  return forced.get(category, category.capitalize())
+
 def category_to_entry(category: str):
-  return f"* [{ forced.get(category, category.capitalize()) }](#{category})"
+  return f"* [{ category_name(category) }](#{category})"
 
 def file_to_entry(file: str):
   def filename_to_title(str: str):
@@ -28,6 +31,6 @@ with open("README.md", "w") as readme:
   readme.write(template
     .replace("%%%CATEGORIES%%%", "\r\n".join(map(category_to_entry, dic.keys())))
     .replace('%%%TIL_LISTS%%%', "\r\n\r\n".join([f'''\
-### {category.capitalize()}
+### {category_name(category)}
 
 {rn.join([file_to_entry(f) for f in files])}''' for (category, files) in dic.items()])))
