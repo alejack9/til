@@ -1,6 +1,8 @@
 import os
 from os import linesep as rn
 
+forced = { 'css': 'CSS' }
+
 template = open("template.md", "r").read()
 
 list_files = lambda category: [category + '/' + x for x in os.listdir(category) if x.split('.')[-1] == 'md']
@@ -15,7 +17,7 @@ def list_categories():
 dic = list_categories()
 
 def category_to_entry(category: str):
-  return f"* [{category.capitalize()}](#{category})"
+  return f"* [{ forced.get(category, category.capitalize()) }](#{category})"
 
 def file_to_entry(file: str):
   def filename_to_title(str: str):
