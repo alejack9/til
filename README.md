@@ -11,6 +11,7 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 * [Linux](#linux)
 * [CSS](#css)
 * [Devops](#devops)
+* [Javascript](#javascript)
 * [Python](#python)
 
 ---
@@ -26,6 +27,10 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 ### Devops
 
 - [Single Watchtower Run](devops/single-watchtower-run.md)
+
+### Javascript
+
+- [Head And Tail](javascript/head-and-tail.md)
 
 ### Python
 
