@@ -17,14 +17,14 @@ def list_categories():
 dic = list_categories()
 
 def category_name(category: str):
-  return forced.get(category, category.capitalize())
+  return forced.get(category, category.title())
 
 def category_to_entry(category: str):
   return f"* [{ category_name(category) }](#{category})"
 
 def file_to_entry(file: str):
   def filename_to_title(str: str):
-    return ' '.join([word.capitalize() for word in str.split('/')[-1].split('.')[0].split('-')])
+    return str.split('/')[-1].split('.')[0].replace('-', ' ').title()
   return f'- [{filename_to_title(file)}]({file})'
 
 with open("README.md", "w") as readme:
