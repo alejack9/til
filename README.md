@@ -12,6 +12,7 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 * [CSS](#css)
 * [Devops](#devops)
 * [Javascript](#javascript)
+* [Bash](#bash)
 * [Python](#python)
 
 ---
@@ -31,6 +32,10 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 ### Javascript
 
 - [Head and Tail](javascript/head-and-tail.md)
+
+### Bash
+
+- [Default Values](bash/default-values.md)
 
 ### Python
 
