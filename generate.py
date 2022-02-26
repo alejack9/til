@@ -23,9 +23,8 @@ def category_to_entry(category: str):
   return f"* [{ category_name(category) }](#{category})"
 
 def file_to_entry(file: str):
-  def filename_to_title(str: str):
-    return str.split('/')[-1].split('.')[0].replace('-', ' ').title()
-  return f'- [{filename_to_title(file)}]({file})'
+  with open(file, 'r') as f:
+    return f'- [{f.readline()[2:-1]}]({file})'
 
 with open("README.md", "w") as readme:
   readme.write(template
