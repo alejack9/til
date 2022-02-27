@@ -12,6 +12,7 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 * [CSS](#css)
 * [Devops](#devops)
 * [Javascript](#javascript)
+* [Typescript](#typescript)
 * [Bash](#bash)
 * [Python](#python)
 
@@ -32,6 +33,10 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 ### Javascript
 
 - [Head and Tail](javascript/head-and-tail.md)
+
+### Typescript
+
+- [Sleep-for](typescript/sleep-for.md)
 
 ### Bash
 
