@@ -32,6 +32,7 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 
 ### Javascript
 
+- [Range](javascript/range.md)
 - [Head and Tail](javascript/head-and-tail.md)
 
 ### Typescript
