@@ -42,6 +42,7 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 ### Bash
 
 - [Default Values](bash/default-values.md)
+- [Jobs](bash/jobs.md)
 
 ### Python
 
