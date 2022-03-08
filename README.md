@@ -8,6 +8,7 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 
 ### Categories
 
+* [Nestjs](#nestjs)
 * [Linux](#linux)
 * [CSS](#css)
 * [Devops](#devops)
@@ -17,6 +18,10 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 * [Python](#python)
 
 ---
+
+### Nestjs
+
+- [Generate CRUD Endpoint](nestjs/generate-endpoint.md)
 
 ### Linux
 
