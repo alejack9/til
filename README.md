@@ -25,6 +25,7 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 
 ### Linux
 
+- [Check Ram Speed and Type](linux/check-ram.md)
 - [Audio Profiles in Pulseaudio](linux/pulseaudio-profiles.md)
 
 ### CSS
