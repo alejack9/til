@@ -27,6 +27,7 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 
 - [Check Ram Speed and Type](linux/check-ram.md)
 - [Audio Profiles in Pulseaudio](linux/pulseaudio-profiles.md)
+- [Use MPV to play YT videos with resolution constraints](linux/mpv-youtube-resolution.md)
 
 ### CSS
 
