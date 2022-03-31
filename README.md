@@ -51,6 +51,7 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 
 - [Default Values](bash/default-values.md)
 - [Jobs](bash/jobs.md)
+- [Last Command and Last Argument](bash/last.md)
 
 ### Python
 
