@@ -16,6 +16,7 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 * [Typescript](#typescript)
 * [Bash](#bash)
 * [Python](#python)
+* [Github](#github)
 
 ---
 
@@ -57,6 +58,10 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 
 - [Triple Quotes Indentation](python/triple-quotes-indentation.md)
 - [Pandas DataFrame to Latex](python/dataframe-to-latex.md)
+
+### Github
+
+- [Math Language Support in Github Markdown](github/math.md)
 
 ## About
 
