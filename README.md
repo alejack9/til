@@ -33,6 +33,7 @@ A bunch of stuff I'm learning outside the University bubble and that I'd love to
 
 ### Vim
 
+- [Multiline Edit](vim/multiline-edit.md)
 - [Registers](vim/registers.md)
 
 ### CSS
